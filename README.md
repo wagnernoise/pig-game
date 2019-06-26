@@ -12,5 +12,7 @@ This is a modified version that uses two dices instead of one. Now, let's be fam
 5. The first player to reach 100 points (by default) on GLOBAL score wins the game. The user can change the GLOBAL score in the tab "FINAL SCORE"
 6. Enjoy :)
 
+# One dice version
+If you want to play the one dice version of the game, you have to modify the HTML and CSS files (simple fix). The JavaScript for the one dice version is named "app.js".
 
 [1]: https://en.wikipedia.org/wiki/Pig_(dice_game)#cite_ref-1 
